@@ -28,3 +28,5 @@
 - Parameters' initialization
 - Activation functions effect
 - Optimization functions for NN
+
+Labs are designed by: Mr. Abdelkrime Aries
